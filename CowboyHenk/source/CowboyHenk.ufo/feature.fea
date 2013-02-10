@@ -1,0 +1,13 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\space \uni0041 \uni0042 \uni0043 \uni0044 \uni0045 \uni0046 
+	\uni0047 \uni0048 \uni0049 \uni004A \uni004B \uni004C \uni004D \uni004E \uni004F 
+	\uni0050 \uni0051 \uni0052 \uni0053 \uni0054 \uni0055 \uni0056 \uni0057 \uni0058 
+	\uni0059 \uni005A \uni00A0 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
