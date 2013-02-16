@@ -1,7 +1,7 @@
 Cowboy Henk fonts
 ======
 
-Font
+Foundry
 ------
 
 This is the first fontlog, written by more or less 10 persons in the same time : 
@@ -22,14 +22,14 @@ Be welcome to use this first edition. Be aware of our progress in the future. It
 Structure
 =========
 
-+osp.foundry.fontname
-`-+ README                 General information on the font
-  +- regular/              Per weight/style directory
-    `+ work/               Working files
-     `+ fontname.sfdir/    Fontforge font directory
-     + release/            Release files
-     `+ fontname.ufo/      UFO font directory
-  + COPYING                Copyright info
-  + FONTLOG                Font log
-  + GPL-V3                 Text of the license
+osp.foundry.fontname
+  README                 General information on the font
+    regular/              Per weight/style directory
+      work/               Working files
+        fontname.sfdir/    Fontforge font directory
+      release/            Release files
+      fontname.ufo/      UFO font directory
+  COPYING                Copyright info
+  FONTLOG                Font log
+  GPL-V3                 Text of the license
 
