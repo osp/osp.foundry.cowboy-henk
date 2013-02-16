@@ -3,7 +3,8 @@ FontName: CowboyHenk
 FullName: Cowboy Henk
 FamilyName: CowboyHenk
 Weight: Medium
-Copyright: Created by Herr Seele, produced by Fonzie (osp.tools.fonzie)
+Copyright: Created by Herr Seele, transited by Eve Deluze (Fremok), processed by Pierre Marchand and Pierre Huyghebaert (OSP), produced by Fonzie (osp.tools.fonzie)
+FontLog: "The typeface is created by Herr Seele for the absurdist and surreal Belgian comic Cowboy Henk. CBH is written by Kamagurka and drawn by Herr Seele since 1981 and has enjoyed worldwide success. The Font is based on a hand lettering drawn in indian ink with a Redis pen. This flat-balled calligraphical pen is also used for all the drawings of CBH, which is kind of unusual, it is after all a tool for lettering. But there you are.+AAoACgAA-The translation of CBH books by Fremok publishing house was in need of a font. Herr Seele created for this occasion a perfect specimen of this iconic alphabet.+AAoACgAA-A scan of this sample was processed during a collective evening at La Crypte tonique in Brussels the 7th of February 2013 using Fonzie (osp.tools.fonzie.git) and with a certain presence of mormon spirit*.+AAoACgAA-This is the first iteration of this font. The next step will be to combine multiple versions of each glyph to provide a shuffled font. Other versions could be bold version, letters drawn by the exterior (white on black), explosion version, angst-horror version, echo version. +AAoACgAA-Be welcome to use this first edition. Be aware of our progress in the future. It is now available for everybody to enjoy.+AAoACgAA* In addition of Herr Seele, memorable presence included Philippe Capart (our crypt guest), Kevin Cocquio (the letterer-link) +- a lady (who feed us with a smile), Eve Deluze (the engine behing the publishing) and Thierry Van Hasselt (who laught a lot), Pierre Marchand (to revive Fonzie and give background views), Pierre Huyghebaert (copy/paster) and Sophie Boiron (picturer who laught a lot also), and a mormon chaman." 
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -20,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1360271708
-ModificationTime: 1360483420
+ModificationTime: 1361008715
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -62,7 +63,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 8 2
+WinInfo: 56 14 7
 BeginPrivate: 3
 BlueValues 15 [-20 0 431 471]
 BlueScale 7 0.02475

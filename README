@@ -1,18 +1,35 @@
-This repository is a skeleton your can use as a model to package your fonts.
-This text file explains the structure of this sample repository. Replace the
-ccontent of this file with general information on the font.
+Cowboy Henk fonts
+======
+
+Foundry
+------
+
+This is the first fontlog, written by more or less 10 persons in the same time : 
+
+"The typeface is created by Herr Seele for the absurdist and surreal Belgian comic Cowboy Henk. CBH is written by Kamagurka and drawn by Herr Seele since 1981 and has enjoyed worldwide success. The Font is based on a hand lettering drawn in indian ink with a Redis pen. This flat-balled calligraphical pen is also used for all the drawings of CBH, which is kind of unusual, it is after all a tool for lettering. But there you are.
+
+The translation of CBH books by Fremok publishing house was in need of a font. Herr Seele created for this occasion a perfect specimen of this iconic alphabet.
+
+A scan of this sample was processed during a collective evening at La Crypte tonique in Brussels the 7th of February 2013 using Fonzie (osp.tools.fonzie.git) and with a certain presence of mormon spirit*.
+
+This is the first iteration of this font. The next step will be to combine multiple versions of each glyph to provide a shuffled font. Other versions could be bold version, letters drawn by the exterior (white on black), explosion version, angst-horror version, echo version. 
+
+Be welcome to use this first edition. Be aware of our progress in the future. It is now available for everybody to enjoy."
+
+* In addition of Herr Seele, memorable presence included Philippe Capart (our crypt guest), Kevin Cocquio (the letterer-link) + a lady (who feed us with a smile), Eve Deluze (the engine behing the publishing) and Thierry Van Hasselt (who laught a lot), Pierre Marchand (to revive Fonzie and give background views), Pierre Huyghebaert (copy/paster) and Sophie Boiron (picturer who laught a lot also), and a mormon chaman.
+
 
 Structure
 =========
 
-+osp.foundry.fontname
-`-+ README                 General information on the font
-  +- regular/              Per weight/style directory
-    `+ work/               Working files
-     `+ fontname.sfdir/    Fontforge font directory
-     + release/            Release files
-     `+ fontname.ufo/      UFO font directory
-  + COPYING                Copyright info
-  + FONTLOG                Font log
-  + GPL-V3                 Text of the license
+osp.foundry.fontname
+  README                 General information on the font
+    regular/              Per weight/style directory
+      work/               Working files
+        fontname.sfdir/    Fontforge font directory
+      release/            Release files
+      fontname.ufo/      UFO font directory
+  COPYING                Copyright info
+  FONTLOG                Font log
+  GPL-V3                 Text of the license
 
